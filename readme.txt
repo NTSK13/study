@@ -3,4 +3,4 @@ git is a version control system software.
 and it is a free software.
 data: 2014 12.7
 author: ntsk13
-add stupid error
+test user name and email
